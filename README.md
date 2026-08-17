@@ -1,4 +1,4 @@
-# Finding Their Names — Airtable Automation Scripts
+# Finding Their Names - Airtable Automation Scripts
 
 Automation scripts supporting the **Finding Their Names (FTN)** dataset, a project of the University of Georgia Libraries' Hargrett Rare Book and Manuscript Library. FTN documents enslaved and formerly enslaved persons drawn from archival collections, for publication on [Enslaved.org](https://enslaved.org) as part of the *Journal of Slavery and Data Preservation*.
 
